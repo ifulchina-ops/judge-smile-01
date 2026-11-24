@@ -1,8 +1,8 @@
 # Make the Judge Smile
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/c/u-gentle-badger-68-make-the-judge-smile-9228676d)
-[![entry](https://img.shields.io/badge/entry-one%20line%20%E2%89%A4200%20chars-brightgreen)](https://make.fun/c/u-gentle-badger-68-make-the-judge-smile-9228676d)
-[![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![make.fun · u-gentle-badger-68-make-the-judge-smile-9228676d](https://make.fun/badge/u-gentle-badger-68-make-the-judge-smile-9228676d.svg)](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-make-the-judge-smile-9228676d)
+[![rank](https://make.fun/badge/u-gentle-badger-68-make-the-judge-smile-9228676d/ifulchina-ops/judge-smile-01/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-make-the-judge-smile-9228676d)
+[![reward](https://make.fun/badge/u-gentle-badger-68-make-the-judge-smile-9228676d/ifulchina-ops/judge-smile-01/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-make-the-judge-smile-9228676d)
 
 One line, 200 characters at most, about a small good thing that happened today — the warmest, most surprising line takes the $5.
 
